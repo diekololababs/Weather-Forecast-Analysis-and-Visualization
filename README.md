@@ -51,3 +51,20 @@ The Processes involved in the data cleaning are listed below; the data was clean
  - Task 2: removal of duplicate rows and duplicate columns
  - Task 3: fix a few labels in the given data set 
  - Task 4: encoding data into suitable format
+
+## :closed_book: Case Study Analysis
+Each of the following case study questions were derived from the data using SQL:
+
+  1. Give the count of the minimum number of days for the time when temperature reduced.
+  2. Find the temperature as Cold / hot by using the case and avg of values of the given data set.
+  3. Can you check for all 4 consecutive days when the temperature was below 30 Fahrenheit.
+  4. Can you find the maximum number of days for which temperature dropped.
+  5. Can you find the average of average humidity from the dataset (NOTE: should contain the following clauses: group by, order by, date).
+  6. Use the GROUP BY clause on the Date column and make a query to fetch details for average windspeed.
+  7. If the maximum gust speed increases from 55mph, fetch the details for the next 4 days.
+  8. Find the number of days when the temperature went below 0 degrees Celsius.
+  9. Create another table with a “Foreign key” relation with the existing given data set.
+
+
+ ## 	:trophy: Solutions
+ *View the Data Cleaning scripts:* 
