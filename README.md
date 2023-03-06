@@ -70,5 +70,4 @@ Each of the following case study questions were derived from the data using SQL:
  *View the Data Cleaning scripts:*[HERE](https://github.com/diekololababs/Weather-Forecast-Analysis-and-Visualization/blob/main/Data%20Cleaning%20Script.sql)
  - [x] *View the clean dataset:* [HERE](https://github.com/diekololababs/Weather-Forecast-Analysis-and-Visualization/blob/main/Clean%20Date.csv)
   
-  *View the Case Study Analysis scripts:* [HERE](https://github.com/ifeoluwa-23/Weather-Forecasting-Analysis-and-Visualisation/blob/main/Solution%20Script.sql)
-
+  *View the Case Study Analysis scripts:* [HERE](https://github.com/diekololababs/Weather-Forecast-Analysis-and-Visualization/blob/main/Solution%20Script.sql)
